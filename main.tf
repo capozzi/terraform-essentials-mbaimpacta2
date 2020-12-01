@@ -12,7 +12,7 @@ provider "google" {
 
   
 
-  project     i= "noted-runway-295223"
+  project = "noted-runway-295223"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
