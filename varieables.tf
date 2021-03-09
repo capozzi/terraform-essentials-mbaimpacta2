@@ -1,5 +1,5 @@
 ### GCP
-variable "gcp_project" {
+variable "gcp_projeto" {
   type        = string
   description = "Projeto do GCP"
 }
